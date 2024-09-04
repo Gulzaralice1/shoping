@@ -124,6 +124,10 @@ a{
 .icon-color:hover{
     color: #18cb33 !important;
 }
+.card{
+    /* background-color: red !important; */
+    width: 220px !important;
+}
 
 
 
@@ -150,9 +154,10 @@ a{
     background-color: #623686 !important;
     border-bottom-right-radius: 100%;
 }
-.card-img-top{
+/* .card-img-top{
     height: 200px !important;
-}
+    width: 220.4px !important;
+} */
 .line-heigt{
     line-height: 1 !important;
     margin-top: 0px !important;
@@ -220,6 +225,12 @@ a{
     }
     .skillera{
         margin-top: 50px !important;
+    }
+    .card-img-top{
+        width: 195px !important;
+    }
+    .card{
+        width: 200px !important;
     }
 }
 /* tab + mobile */
