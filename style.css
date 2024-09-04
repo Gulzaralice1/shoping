@@ -200,7 +200,9 @@ a{
     margin-top: 15px;
   }
   
-
+.rounded{
+    border-radius: 10% !important;
+}
 
 
 /* only for mobile */
