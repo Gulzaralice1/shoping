@@ -135,7 +135,11 @@ a{
     height: 50px !important;
     margin-top: 30px;
 }
-
+.btn-buy{
+    margin-top: -15px !important;
+    border: none;
+    margin-left: -11px;
+}
 .home-border{
     border-bottom-left-radius: 50px solid red;
     border-bottom-right-radius: 50px solid red;
@@ -172,6 +176,28 @@ a{
   .element {
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;     /* Firefox */
+  }
+
+  .price{
+    font-size: 16px;
+    font-family: PublicSans Semibold;
+    /* font-weight: 500; */
+    font-weight: bold;
+    margin-top: -15px;
+  }
+  .star{
+    color: orange;
+    font-size: 10px;
+  }
+  .rating{
+    margin-top: -15px;
+
+  }
+
+  .order-img{
+    height: 300px;
+    width: 300px;
+    margin-top: 15px;
   }
   
 
