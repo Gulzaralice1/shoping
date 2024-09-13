@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-color: white !important;
+    background-color: whitesmoke !important;
 }
 .colour {
     color: rgb(205,95,248);
@@ -127,6 +127,10 @@ a{
 .card{
     /* background-color: red !important; */
     width: 220px !important;
+}
+
+.card-hover:hover{
+    border: 5px pink solid;
 }
 
 
